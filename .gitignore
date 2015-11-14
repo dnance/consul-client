@@ -13,3 +13,9 @@ gradle/gradlew
 gradle/gradlew.bat
 gradle/gradle
 src/gradle
+
+#Eclipse specific files
+.project
+.classpath
+.settings
+bin
